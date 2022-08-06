@@ -15,7 +15,7 @@
 		"@sveltejs/kit": "next",
 		"@zerodevx/svelte-toast": "^0.7.2",
 		"autoprefixer": "^10.4.7",
-		"postcss": "^8.4.14",
+		"postcss": "8.4.16",
 		"svelte": "^3.46.0",
 		"svelte-preprocess": "^4.10.7",
 		"tailwindcss": "^3.1.6",
