@@ -25,7 +25,7 @@
 	"dependencies": {
 		"@fontsource/fira-mono": "^4.5.0",
 		"@formkit/auto-animate": "^1.0.0-beta.1",
-		"cookie": "0.5.0",
+		"cookie": "0.6.0",
 		"nanoid": "^4.0.0",
 		"svelte-spinkit": "^1.0.3"
 	}
