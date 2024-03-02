@@ -10,7 +10,7 @@
 		"test": "playwright test"
 	},
 	"devDependencies": {
-		"@playwright/test": "1.24.1",
+		"@playwright/test": "1.42.1",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@zerodevx/svelte-toast": "^0.8.0",
